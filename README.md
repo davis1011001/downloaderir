@@ -34,4 +34,4 @@
 ---
 خوش باشید
 
-<a href="https://avasam.ir" target="_blank" rel="do-follow follow sponsered">آواسام  💚 </a>
+<a href="https://avasam.ir" target="_blank" rel="do-follow follow sponsered">avasam.ir 🌱 </a>
