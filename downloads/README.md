@@ -4,6 +4,7 @@
 - [mhrv-rs-android-arm64-v8a-v1.9.21](./mhrv-rs-android-arm64-v8a-v1.9.21)
 - [mhrv-rs-windows-amd64](./mhrv-rs-windows-amd64)
 - [v2rayNG_2.1.5_universal](./v2rayNG_2.1.5_universal)
+- [x-ui-linux-amd64.tar](./x-ui-linux-amd64.tar)
 
 ---
 
