@@ -1,0 +1,5 @@
+/dist/main.59d34da2.css
+/dist/main.59d34da2.js
+/manifest.webmanifest
+https://fonts.googleapis.com/css?family=Roboto:400,500
+https://www.googletagmanager.com/ns.html?id=GTM-WDXG9F7
